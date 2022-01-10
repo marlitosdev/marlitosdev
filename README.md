@@ -19,8 +19,14 @@
   </div>  
 
   <div>
- <!--
+ 
+    <a href="https://www.instagram.com/marlon.wls.dev"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
+    
+    <!--
     <a href="htt colocar o site e os blocos aqui com CSS e ícones.
+
+150+ Badges for GitHub
+https://dev.to/envoy_/150-badges-for-github-pnk
  
   >
           
