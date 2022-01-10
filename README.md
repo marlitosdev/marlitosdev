@@ -20,7 +20,7 @@
 
 <div>
  
-    <a href="https://www.instagram.com/marlon.wls.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+    <a href="https://www.instagram.com/marlon.wls.dev" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
     
    <!--
     <a href="htt colocar o site e os blocos aqui com CSS e ícones.
