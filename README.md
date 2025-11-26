@@ -7,13 +7,13 @@
 </div>  
 
   <div>
-  - 🔭 I’m currently working on Business Project
+- 🔭 I’m currently working on Business Projects
 - 🌱 I’m currently learning Go Language and TypeScript
 - 👯 I’m looking to collaborate on Collaborative Project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with Agentic Finance Projects
+- 💬 Ask me about everything
+- 📫 How to reach me: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
   
   </div>  
