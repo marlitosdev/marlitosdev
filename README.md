@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MarlitodDev%20Size=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MarlitosDev&fontSize=50&animation=fadeIn" width="100%" />
 
 # Olá, eu sou o Marlon 👋
 
@@ -12,7 +12,7 @@ Desenvolvedor focado em criar soluções eficientes para negócios, automação 
 * **🌱 Atualmente aprendendo:** Go (Golang) e TypeScript
 * **👯 Procurando colaborar em:** Projetos Colaborativos e Open Source
 * **🤔 Procurando ajuda em:** Projetos de *Agentic Finance* (Finanças com Agentes de IA)
-* **💬 Pergunte-me sobre:** Desenvolvimento de Software, Golang, TypeScript e Arquitetura de Sistemas
+* **💬 Pergunte-me sobre:** Desenvolvimento de Software, Golang, JavaScript, TypeScript e Arquitetura de Sistemas
 * **😄 Pronomes:** Ele/Dele (He/Him)
 * **⚡ Fun fact:** Quando não estou codando, provavelmente estou explorando mundos em RPGs, lendo clássicos da literatura ou colecionando itens retrô de games!
 
@@ -22,8 +22,9 @@ Desenvolvedor focado em criar soluções eficientes para negócios, automação 
 
 **Linguagens & Frameworks:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
