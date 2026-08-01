@@ -39,10 +39,19 @@ Desenvolvedor focado em criar soluções eficientes para negócios, automação 
 
 ### 📊 Minhas Estatísticas no GitHub
 
+<!-- Opção 1: Servidor Principal (Corrigido sem 'count_private') -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marlitosdev&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marlitosdev&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlitosdev&layout=compact&theme=radial" alt="Linguagens Mais Utilizadas" height="150" />
 </p>
+
+<!-- Opção 2: Servidor Alternativo (Backup de Alta Disponibilidade) -->
+<!-- 
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marlitosdev&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marlitosdev&layout=compact&theme=radial" alt="Linguagens Mais Utilizadas" height="150" />
+</p>
+-->
 
 ---
 
