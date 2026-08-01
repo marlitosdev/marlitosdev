@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Marlon%20Liberal&fontSize=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MarlitodDev%20Size=50&animation=fadeIn" width="100%" />
 
 # Olá, eu sou o Marlon 👋
 
